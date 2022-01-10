@@ -2,3 +2,6 @@ Hello Saad, you will see this one day...
 and you will be disappointed in how bad I was with Git but maybe one day you will forgive me
 
 But for now I will do what I must
+
+
+This is to keep figuring things out
